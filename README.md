@@ -5,4 +5,5 @@
 # Next.js
 # Next-auth
 # Postgresql
+# Prisma
 
