@@ -5,4 +5,4 @@
 # Next.js
 # Next-auth
 # Postgresql
-# socket.io
+
